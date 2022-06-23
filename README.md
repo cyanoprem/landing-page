@@ -1,2 +1,2 @@
 # landing-page
-Landing page - Sample
+Landing page - Burst
